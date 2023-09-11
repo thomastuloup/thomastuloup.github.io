@@ -5,8 +5,7 @@
 layout: home
 title: ''
 ---
-
-Hello, I'm Dawn, a dedicated *Edge Computing Software Engineer* at **Dell EMC** based in Singapore. My professional growth has been enriched through diverse experiences, including contributions to tech startups in various stages of development. These experiences have honed my skills and allowed me to thrive in dynamic and innovative environments, building upon the strong foundation in computing concepts from my time at the National University of Singapore (NUS).
+I'm Dawn, a dedicated *Edge Computing Software Engineer* at **Dell EMC** based in Singapore. My professional growth has been enriched through diverse experiences, including contributions to tech startups in various stages of development. These experiences have honed my skills and allowed me to thrive in dynamic and innovative environments, building upon the strong foundation in computing concepts from my time at the National University of Singapore (NUS).
 
 At this point in my career, I am particularly interested in strengthening my concepts and skill set in Linux Operating Systems, as I simply think that they are neat :)
 

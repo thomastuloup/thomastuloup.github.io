@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: ''
+welcome: 'Hello and welcome!'
 email: tan.lin.dawn@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -32,7 +33,7 @@ theme: jekyll-theme-so-simple
 
 domain: lindawn.github.io
 url: https://lindawn.github.io
-logo: "/images/placeholder.png"
+logo: "/images/headshot.png"
 
 
 
