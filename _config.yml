@@ -26,8 +26,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  lindawn
 
 # Build settings
-# remote_theme: mmistakes/so-simple-theme
-theme: jekyll-theme-so-simple
+remote_theme: mmistakes/so-simple-theme
+# theme: jekyll-theme-so-simple
 #theme: minima
 
 
