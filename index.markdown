@@ -5,9 +5,9 @@
 layout: home
 title: ''
 ---
-I'm Dawn, a dedicated *Edge Computing Software Engineer* at **Dell EMC** based in Singapore. My professional growth has been enriched through diverse experiences, including contributions to tech startups in various stages of development. These experiences have honed my skills and allowed me to thrive in dynamic and innovative environments, building upon the strong foundation in computing concepts from my time at the National University of Singapore (NUS).
+I'm Dawn, a dedicated *Edge Computing Software Engineer* at **Dell EMC** based in Singapore. Previously, I worked in numerous tech startups in various stages of development, which have allowed me to thrive in dynamic and innovative environments, building upon the strong foundation in computing concepts from my time at the National University of Singapore (NUS).
 
-At this point in my career, I am particularly interested in strengthening my concepts and skill set in Linux Operating Systems, as I simply think that they are neat :)
+At this point in my career, I am particularly interested in Operating Systems, as I simply think that they are neat :)
 
 ---
 
@@ -16,7 +16,7 @@ The following are some milestones in my career that I have been extremely proud 
 
 **Dell EMC, Singapore (Edge Computing)**  — *Software Engineer*
 {: .resume-title}
-(Aug 2021- present)
+Aug 2021- present
 {: .resume-date}
 - Enhanced the security of microservices on **Kubernetes clusters**, that orchestrated up to *400 devices*, by designing and implementing **Golang/GraphQL** services based on *zero trust principles*
 - Designed and implemented **Angular** micro-frontend, interfacing with various microservices, enabling clients to effectively manage complex deployments
@@ -47,11 +47,19 @@ Jan 2020 - Mar 2020
 - Redesigned the platform's database architecture to align with evolving platform requirements
 - Developed scripts to orchestrate the seamless migration of production data from **MongoDB** to a **PostgreSQL** database.
 
+**Tetsuyu Healthcare, Singapore** — *Web Developer & Data Intern*
+{: .resume-title}
+Apr 2019 - Aug 2019
+{: .resume-date}
+
+- Mentored an intern team in a collaborative project with A*STAR to train a machine learning imaging model specialised in recognizing wound tissues.
+- Initiated a modern redesign and implementation of the company website with ReactJS to improve navigation and readability
+
 ---
 
 ## Certifications and Projects
 
-During my down time, I like to work on my side projects, or hone my skills related to work, and get certified.
+During my down time, I like to work on projects to keep up with tech skills, and pursue certifications.
 
 I am a **Certified Kubernetes Application Developer (CKAD)**, and due for my **Linux Foundation Certified System Administrator (LFCS)** test soon. 
 
@@ -60,6 +68,10 @@ My current side project is a *Telegram bot* running on a *Raspi Zero* that I use
 ---
 
 ## Skills
-- Backend: **Golang, GraphQL, .NET Core (C#), Node JS/Express/Apollo, Java**
-- Frontend : **Angular (js, tsx), React (js, tsx)**
-- Scripting Languages : **Python, Bash**
+- **Backend**: .NET Core (C#), Node JS, Golang, GraphQL, Java EE, Postgres, MongoDB/PyMongo
+- **Frontend** : Angular, React, Typescript, HTML/CSS/JS
+- **Scripting Languages** : Python, Bash
+- **Deployment**: Kubernetes, Helm, Docker
+- **Operating Systems**: OpenSUSE, SLE Micro, Ubuntu (Server/Desktop), Raspi
+- **Virtualization**: Libvirt, QEMU, KVM
+- **Data Visualisation**: Grafana, InfluxDB, Mapbox
