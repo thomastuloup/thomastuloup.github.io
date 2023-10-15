@@ -5,73 +5,132 @@
 layout: home
 title: ''
 ---
-I'm Dawn, a dedicated *Edge Computing Software Engineer* at **Dell EMC** based in Singapore. Previously, I worked in numerous tech startups in various stages of development, which have allowed me to thrive in dynamic and innovative environments, building upon the strong foundation in computing concepts from my time at the National University of Singapore (NUS).
+I'm Thomas, a PhD student from the National University of Singapore! My research leading up to graduation involved the investigation of nonlinear effects in topological phases of matter, with applications to optical lattices such as waveguide arrays or cold-atom systems. The long term goal of my group is to use topological states such as topologically protected edge modes to perform quantum computation. As such, I have found myself investigating problems such as non-adiabatic holonomic quantum computation or the simulation of time-crystals using quantum computers. 
 
-At this point in my career, I am particularly interested in Operating Systems, as I simply think that they are neat :)
+Due to my growing interest in the field of quantum computing, I wish to carry over my skills in condensed matter physics, quantum computing and numerical methods to study topic more directly related to quantum information and computation
+
+---
+
+## Education
+My research interests include: Topological Matter, Many-Body Physics, Nonlinear Optics, Quantum Computation & Simulation.
+
+**National University of Singapore - Center for Quantum Technologies**  — *Ph.D in Physics*
+{: .resume-title}
+Aug 2019 - Oct 2023
+{: .resume-date}
+- Dissertation: Topological characterization of nonlinear quantum systems
+- Supervisor: Professor Gong Jiangbin
+- Studied the **effect of nonlinearity on the topological characteristics** of topological phases of matter
+- Investigated physical systems such as **optical lattices with Kerr nonlinearity** or **Bose-Einstein condensates** of
+bosonic cold atoms with a mean-field treatment of interactions
+- Derived a theory of **nonlinear geometric phases** where additional dynamical contributions arise from the nonlinear
+adiabatic dynamics
+- Developed **numerical tools** in python to simulate the dynamics of nonlinear systems, solve them for stationary states,
+and analyze their dynamical stability
+
+**National University of Singapore**  — *Master of Science in Physics*
+{: .resume-title}
+Aug 2018 - Aug 2019
+{: .resume-date}
+- Coursework includes: Quantum Information and Computation, Statistical Physics, Photonics, Numerical Methods, Variational
+Principles, Astrophysics, Quantum Mechanics
+
+**École Polytechnique, Palaiseau, France**  — *Diplôme d’ingénieur (Equivalent B.S. and M.Eng.)*
+{: .resume-title}
+Aug 2015 - Aug 2019
+{: .resume-date}
+- Specialized in Physics, Applied Mathematics and Computer Science at the French engineering and military school
+École polytechinque
+- Conducted experimental project on the **electron-positron annihilation**
+
+---
+
+## Publications
+
+Here is a list of my publications during my PhD studies.
+
+**Breakdown of quantization in nonlinear Thouless pumping**  — *New Journal of Physics*
+{: .resume-title}
+2023
+{: .resume-date}
+*Thomas Tuloup, Raditya Weda Bomantara, Jiangbin Gong*
+
+**Topological characteristics of gap closing points in nonlinear Weyl semimetals**  — *Physical Review B*
+{: .resume-title}
+2022
+{: .resume-date}
+*Thomas Tuloup, Raditya Weda Bomantara, Jiangbin Gong*
+
+**Breakdown of quantization in nonlinear Thouless pumping**  — *Physical Review B*
+{: .resume-title}
+2020
+{: .resume-date}
+*Thomas Tuloup, Raditya Weda Bomantara, Ching Hua Lee, Jiangbin Gong*
 
 ---
 
 ## Experience
-The following are some milestones in my career that I have been extremely proud of.
+The following are some relevant milestones that have been instrumental in my development.
 
-**Dell EMC, Singapore (Edge Computing)**  — *Software Engineer*
+**National University of Singapore**  — *Teaching Assistant*
 {: .resume-title}
-Aug 2021- present
+Jan 2020 - Dec 2022
 {: .resume-date}
-- Enhanced the security of microservices on **Kubernetes clusters**, that orchestrated up to *400 devices*, by designing and implementing **Golang/GraphQL** services based on *zero trust principles*
-- Designed and implemented **Angular** micro-frontend, interfacing with various microservices, enabling clients to effectively manage complex deployments
-- Designed and developed custom OS images to support the network and hardware security requirements of zero touch provisioning of Dell devices, adhering to *FIDO onboarding specifications*
-- Automated changes to *Linux grub configurations* and supported the team by troubleshooting hardware configurations with *BIOS Utility tools*. 
-- Integrated *generative imaging* technologies into UI as part of our rapid prototyping process for a proof of concept, which was adopted as an official part of *Dell’s Project Frontier*
-- Research and developed proof of concept to generate hardware passed-through virtual machines on a large scale, enabling optimal performance on virtualized deployments
+- Prepared, tested and maintained experimental setups for an **experimental physics module**
+- Provided **consultation sessions** to further discuss the theory behind experiments
 
 
-**Ackcio, Singapore**  — *Software Engineer*
+**Université Libre de Bruxelles, Belgium**  — *Research Intern in Theoretical Physics*
 {: .resume-title}
-Apr 2020- Dec 2020
+Mar 2018 - Jul 2018
 {: .resume-date}
 
-- Independently designed and implemented a real time, geographically accurate *visualisation of mesh network* (**Mapbox**, GeoJSON, Leaflet) to indicate node connectivity, and identify problematic nodes
-- Designed and developed end-to-end network configuration, from client-facing application (**.NET Core**) to Raspi gateway (IP configs, network modes and credentials)
-- Algorithmically optimised application level code to minimise computing resources on the battery-powered gateways
+- Built theoretical models to evaluate the **effects of the presence of dark matter within neutron stars**
+- Realized **numerical simulations** to estimate the possible ranges of physical properties for different dark matter
+candidates by using different equations of state for the neutron star
 
 
-**Boxed, New York** — *Software Engineer*
+**Atos, Les Clayes-sous-Bois, France** — *R&D Intern in Quantum Computing*
 {: .resume-title}
 
-Jan 2020 - Mar 2020
+May 2017 - Jul 2017
 {: .resume-date}
 
 
-- Collaborated with the team to develop a robust advertising platform, utilising **React (Typescript)** and **Node.js** with **Apollo/GraphQL/Express**, providing advertisers with powerful tools to manage their campaigns effectively.
-- Redesigned the platform's database architecture to align with evolving platform requirements
-- Developed scripts to orchestrate the seamless migration of production data from **MongoDB** to a **PostgreSQL** database.
+- Implemented **classical simulation of quantum circuits** in the AQASM language using stabilizer formalism
+- Wrote a program converting a logical quantum circuit into a fault-tolerant one, using **encoded qubits and
+fault-tolerant gates**
+- Benchmarked the efficiency of **stabilizer quantum error-correcting codes** using High Performance Computing
+- Participated in the creation of myQLM, **the worlds first quantum simulators programming framework**
 
-**Tetsuyu Healthcare, Singapore** — *Web Developer & Data Intern*
+
+**Lycée Militaire d’Aix-en-Provence, Aix-en-Provence, France** — *Teaching Assistant*
 {: .resume-title}
-Apr 2019 - Aug 2019
+Oct 2015 - Apr 2016
 {: .resume-date}
 
-- Mentored an intern team in a collaborative project with A*STAR to train a machine learning imaging model specialised in recognizing wound tissues.
-- Initiated a modern redesign and implementation of the company website with ReactJS to improve navigation and readability
+- Worked full-time teaching maths and physics to student from high-school to bachelor level
+- In addition to lectures, offered tutoring in smaller groups to support struggling students
+
 
 ---
 
-## Certifications and Projects
+## Presentations and Conferences
 
-During my down time, I like to work on projects to keep up with tech skills, and pursue certifications.
+Here is a selection of talks I had the opportunity to give at various conferences
 
-I am a **Certified Kubernetes Application Developer (CKAD)**, and due for my **Linux Foundation Certified System Administrator (LFCS)** test soon. 
+**Breakdown of quantization in nonlinear Thouless pumping**  — *Statphys 28, Tokyo*
+{: .resume-title}
+2023
+{: .resume-date}
 
-My current side project is a *Telegram bot* running on a *Raspi Zero* that I use to track my progress at the gym! The data is stored locally in MongoDB, and I am working on designing a suitable visualisation board on Grafana.
+**Strength in numbers makes particles go further**  — *3 Minute Thesis*
+{: .resume-title}
+2022
+{: .resume-date}
 
----
+**Nonlinearity protected topology in Su-Schrieffer-Heeger model**  — *IPS Meeting, Singapore*
+{: .resume-title}
+2021
+{: .resume-date}
 
-## Skills
-- **Backend**: .NET Core (C#), Node JS, Golang, GraphQL, Java EE, Postgres, MongoDB/PyMongo
-- **Frontend** : Angular, React, Typescript, HTML/CSS/JS
-- **Scripting Languages** : Python, Bash
-- **Deployment**: Kubernetes, Helm, Docker
-- **Operating Systems**: OpenSUSE, SLE Micro, Ubuntu (Server/Desktop), Raspi
-- **Virtualization**: Libvirt, QEMU, KVM
-- **Data Visualisation**: Grafana, InfluxDB, Mapbox
