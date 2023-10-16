@@ -7,7 +7,7 @@ title: ''
 ---
 I'm Thomas, a PhD student from the National University of Singapore! My research leading up to graduation involved the investigation of nonlinear effects in topological phases of matter, with applications to optical lattices such as waveguide arrays or cold-atom systems. The long term goal of my group is to use topological states such as topologically protected edge modes to perform quantum computation. As such, I have found myself investigating problems such as non-adiabatic holonomic quantum computation or the simulation of time-crystals using quantum computers. 
 
-Due to my growing interest in the field of quantum computing, I wish to carry over my skills in condensed matter physics, quantum computing and numerical methods to study topic more directly related to quantum information and computation
+Due to my growing interest in the field of quantum computing, I wish to carry over my skills in condensed matter physics, quantum computing and numerical methods to study topics more directly related to quantum information and computation.
 
 ---
 
@@ -61,7 +61,7 @@ Here is a list of my publications during my PhD studies.
 {: .resume-date}
 *Thomas Tuloup, Raditya Weda Bomantara, Jiangbin Gong*
 
-**Breakdown of quantization in nonlinear Thouless pumping**  — *Physical Review B*
+**Nonlinearity induced topological physics in momentum space and real space**  — *Physical Review B*
 {: .resume-title}
 2020
 {: .resume-date}
